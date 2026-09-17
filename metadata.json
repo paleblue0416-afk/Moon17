@@ -1,0 +1,6 @@
+{
+  "name": "스타일스페이스 (StyleSpace)",
+  "description": "공간과 옷장의 톤앤매너를 일치시켜 조화로운 라이프스타일을 완성하는 멀티모달 AI 스타일링 자문 서비스 (Atelier Duo)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
